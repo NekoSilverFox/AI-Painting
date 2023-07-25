@@ -18,7 +18,10 @@
 >
 > 工具：Stable Diffusion，SD webUI
 >
-> 模型来源：https://civitai.com/models/
+> 模型来源：
+>
+> - https://civitai.com/models/
+> - arthub.ai
 >
 > 提示词中文化：https://moonvy.com/apps/ops/
 
@@ -53,17 +56,23 @@
 
 # 绘制
 
-## 提示词（Prompt）
-
-什么是提示词（prompts），提示词是我们与AI科学高效沟通的桥梁，我们产生作画意图，使用提示词传递需求，描述画面，AI根据指令作图生成符合需要的图像。简单来讲，提示词就是我们告诉 AI，我们要画什么，画成什么。它可能包括作品主题、画风、形象特点以及一些具体包含的要素
-
-<img src="doc/pic/image-20230724191304099.png" alt="image-20230724191304099" style="zoom:50%;" />
-
 **文生图**：仅根据提示词生成图像
 
 **图生图**：图片辅助提示词来进行图像绘制，提示词同样重要
 
 <img src="doc/pic/image-20230724191350490.png" alt="image-20230724191350490" style="zoom:67%;" />
+
+## 提示词（Prompt）
+
+> 辅助书写提示词的网站：
+>
+> http://ai.dawnmark.cn
+>
+> http://www.atoolbox.net/Tool.php?Id=1101
+
+什么是提示词（prompts），提示词是我们与AI科学高效沟通的桥梁，我们产生作画意图，使用提示词传递需求，描述画面，AI根据指令作图生成符合需要的图像。简单来讲，提示词就是我们告诉 AI，我们要画什么，画成什么。它可能包括作品主题、画风、形象特点以及一些具体包含的要素
+
+<img src="doc/pic/image-20230724191304099.png" alt="image-20230724191304099" style="zoom:50%;" />
 
 **提示词要点：**
 
@@ -186,7 +195,9 @@
 
 
 
+## 图生图（img2img）
 
+图生图可以帮助你把一张图片画成另一种模样
 
 
 
